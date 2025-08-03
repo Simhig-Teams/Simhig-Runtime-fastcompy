@@ -1,5 +1,5 @@
 # Simhig-Runtime fastcompy library
-The fast compy library that can boost your python! :shipit:
+The fast compy library that can boost your python! :octocat:
 This library makes by our best member of team![^1]
 You can download it on our website:
 www.simhig-teams.github.io
