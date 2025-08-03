@@ -40,6 +40,7 @@ so are you **understand**? else check out our youtube page for **understand** be
 > Actully this library is copyright by simhig teams all right reversed!
 
 [^1]: Simhig Teams the best teams forever
+
 Thanks for:
 - Tressa
 * Labfox
